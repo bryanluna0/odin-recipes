@@ -1,0 +1,12 @@
+/*Style Sheet*/
+.title {
+    font-family: 'Monaco';
+}
+
+.whole {
+    font-family: 'georgia';
+}
+
+h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
