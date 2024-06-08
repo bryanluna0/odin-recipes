@@ -1,12 +1,30 @@
 /*Style Sheet*/
 .title {
     font-family: 'Monaco';
+    text-align: center;
+    background-color: mintcream;
+    width: 512px;
+    margin: 0px auto;
+    font-size: 40px;
 }
 
 .whole {
     font-family: 'georgia';
+    background-color: aliceblue;
 }
 
 h2, h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    background-color: ivory;
+    margin: 12px auto;
+    width: 200px;
+    padding: 20px 32px;
+    border: 2px rgb(80, 163, 195);
+}
+
+li {
+    margin: 5px;
 }
